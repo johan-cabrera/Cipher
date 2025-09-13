@@ -77,8 +77,6 @@ def generate_params():
 def clear_params():
     """
     Borra los parámetros P, Q y S al finalizar la sesión.
-    En un entorno real, esto implicaría un manejo más seguro,
-    pero para esta simulación, devuelve un diccionario vacío.
 
     Returns:
         dict: Un diccionario vacío.
